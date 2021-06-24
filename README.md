@@ -7,7 +7,7 @@ It has three implementations of the constructor and we are going to use one that
 
 ### Table of contents
 - [pring LinkedList using a for loop](#print-linkedlist-using-a-for-loop)
-- [print LinkedList using Enhanced for loop](#-print-linkedlist-using-enhanced-for-loop)
+- [print LinkedList using Enhanced for loop](#print-linkedlist-using-enhanced-for-loop)
 - [print LinkedList using streams](#print-linkedlist-using-streams)
 - [print LinkedList using toString() method](#print-linkedlist-using-tostring()-method)
 - [print LinkedList using Iterator](#print-linkedlist-using-iterator)
