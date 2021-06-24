@@ -6,13 +6,13 @@ LinkedList provides different methods to modify the List such as `add()`, `remov
 It has three implementations of the constructor and we are going to use one that accepts a [Collection](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collection.html) of elements to ensure we have some data to work with.
 
 ### Table of contents
-- [pring LinkedList using a for loop](###print-linkedlist-using-a-for-loop)
-- [print LinkedList using Enhanced for loop](###-print-linkedlist-using-enhanced-for-loop)
-- [print LinkedList using streams](###print-linkedlist-using-streams)
-- [print LinkedList using toString() method](###print-linkedlist-using-tostring()-method)
-- [print LinkedList using Iterator](###print-linkedlist-using-iterator)
-- [print LinkedList using custom objects](###print-linkedlist-using-custom-objects)
-- [How to print a custom singly LinkedList](###how-to-print-a-custom-singly-linkedlist)
+- [pring LinkedList using a for loop](#print-linkedlist-using-a-for-loop)
+- [print LinkedList using Enhanced for loop](#-print-linkedlist-using-enhanced-for-loop)
+- [print LinkedList using streams](#print-linkedlist-using-streams)
+- [print LinkedList using toString() method](#print-linkedlist-using-tostring()-method)
+- [print LinkedList using Iterator](#print-linkedlist-using-iterator)
+- [print LinkedList using custom objects](#print-linkedlist-using-custom-objects)
+- [How to print a custom singly LinkedList](#how-to-print-a-custom-singly-linkedlist)
 
 ### Print LinkedList using a for loop
 The most common method of printing out elements in a List is by using a for-loop. Since LinkedList is an implementation of a List we can use a for loop to get elements that are stored in each index of the LinkedList.
